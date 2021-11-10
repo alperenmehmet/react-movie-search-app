@@ -2,7 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
@@ -11,7 +10,6 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+//api key :2a8747b7eb93efdd09838f463b8cad03
+//api request : https://api.themoviedb.org/3/movie/550?api_key=2a8747b7eb93efdd09838f463b8cad03
+//api access token: eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyYTg3NDdiN2ViOTNlZmRkMDk4MzhmNDYzYjhjYWQwMyIsInN1YiI6IjYxOGMxOTZjNmUwZDcyMDA0MjQ4NjBiYiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.WUtEtJrG_B_xWmm8leAEzxN_huzhbd2Xcht0ftsqvEY
